@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDECodeSnippetCompletionPrefix</key>
+	<string>tableviewregistercell</string>
+	<key>IDECodeSnippetCompletionScopes</key>
+	<array>
+		<string>All</string>
+	</array>
+	<key>IDECodeSnippetContents</key>
+	<string>-(void)registerCell {
+    [self.tableView registerNib:[UINib nibWithNibName:<#kXXXTableViewCellIdentifier#> bundle:nil] forCellReuseIdentifier:<#kXXXTableViewCellIdentifier#>];
+}</string>
+	<key>IDECodeSnippetIdentifier</key>
+	<string>70BEF569-AE9C-4A2F-A4E1-F020D9F8E986</string>
+	<key>IDECodeSnippetLanguage</key>
+	<string>Xcode.SourceCodeLanguage.Objective-C</string>
+	<key>IDECodeSnippetPlatformFamily</key>
+	<string>iphoneos</string>
+	<key>IDECodeSnippetSummary</key>
+	<string>TableView RegisterCell</string>
+	<key>IDECodeSnippetTitle</key>
+	<string>TableView RegisterCell</string>
+	<key>IDECodeSnippetUserSnippet</key>
+	<true/>
+	<key>IDECodeSnippetVersion</key>
+	<integer>0</integer>
+</dict>
+</plist>
